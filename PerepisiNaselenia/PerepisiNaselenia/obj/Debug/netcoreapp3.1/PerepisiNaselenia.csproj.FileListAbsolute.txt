@@ -1,0 +1,13 @@
+C:\Users\asvarciuc\source\repos\PerepisiNaselenia\PerepisiNaselenia\bin\Debug\netcoreapp3.1\PerepisiNaselenia.exe
+C:\Users\asvarciuc\source\repos\PerepisiNaselenia\PerepisiNaselenia\bin\Debug\netcoreapp3.1\PerepisiNaselenia.deps.json
+C:\Users\asvarciuc\source\repos\PerepisiNaselenia\PerepisiNaselenia\bin\Debug\netcoreapp3.1\PerepisiNaselenia.runtimeconfig.json
+C:\Users\asvarciuc\source\repos\PerepisiNaselenia\PerepisiNaselenia\bin\Debug\netcoreapp3.1\PerepisiNaselenia.runtimeconfig.dev.json
+C:\Users\asvarciuc\source\repos\PerepisiNaselenia\PerepisiNaselenia\bin\Debug\netcoreapp3.1\PerepisiNaselenia.dll
+C:\Users\asvarciuc\source\repos\PerepisiNaselenia\PerepisiNaselenia\bin\Debug\netcoreapp3.1\PerepisiNaselenia.pdb
+C:\Users\asvarciuc\source\repos\PerepisiNaselenia\PerepisiNaselenia\obj\Debug\netcoreapp3.1\PerepisiNaselenia.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\PerepisiNaselenia\PerepisiNaselenia\obj\Debug\netcoreapp3.1\PerepisiNaselenia.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\PerepisiNaselenia\PerepisiNaselenia\obj\Debug\netcoreapp3.1\PerepisiNaselenia.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\PerepisiNaselenia\PerepisiNaselenia\obj\Debug\netcoreapp3.1\PerepisiNaselenia.csproj.CoreCompileInputs.cache
+C:\Users\asvarciuc\source\repos\PerepisiNaselenia\PerepisiNaselenia\obj\Debug\netcoreapp3.1\PerepisiNaselenia.dll
+C:\Users\asvarciuc\source\repos\PerepisiNaselenia\PerepisiNaselenia\obj\Debug\netcoreapp3.1\PerepisiNaselenia.pdb
+C:\Users\asvarciuc\source\repos\PerepisiNaselenia\PerepisiNaselenia\obj\Debug\netcoreapp3.1\PerepisiNaselenia.genruntimeconfig.cache
