@@ -5,20 +5,37 @@ using System.Text;
 
 namespace PerepisiNaselenia
 {
-    class Person : IComparable
+    class Person 
     {
-        public string Name { get; set; }
-        public string Fname { get; set; }
-        public string Adress { get; set; }
+        public Person(string name, string fname, string adress ) 
+        {
+            Name = name;
+            Fname = fname;
+            Adress = adress;
+            Email = $"{name}.{fname}@gmail.com";
+        }
+        public Person(string name)
+        {
+            Name = name;
+        }
+
+
+
+        public string Name { get; }
+        public string Fname { get; }
+        public string Adress { get;  }
+        public string Email { get;  }
+
         
+
         private int age;
         public int Age
         {
             set
             {
-                if (value < 19)
+                if (value < 18)
                 {
-                    Console.WriteLine("The age should be more than 19");
+                     Console.WriteLine("The age should be more than 18");
                 }
                 else
                 {
@@ -27,14 +44,19 @@ namespace PerepisiNaselenia
             }
             get { return age; }
         }
-        public int CompareTo(object o)
+        
+
+        public bool PossibilityToVote() 
         {
-            Person p = o as Person;
-            if (p != null)
-                return this.Name.CompareTo(p.Name);
+            if (Age >= 18)
+            {
+                return true;
+            }
             else
-                throw new Exception("Impossible to compare 2 objects");
-        }
+            {
+                return false;
+            }
+         }
     }
 }
 
