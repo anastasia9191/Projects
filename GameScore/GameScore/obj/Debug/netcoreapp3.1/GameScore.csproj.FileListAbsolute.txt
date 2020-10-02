@@ -1,0 +1,13 @@
+C:\Users\asvarciuc\source\repos\GameScore\GameScore\obj\Debug\netcoreapp3.1\GameScore.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\GameScore\GameScore\obj\Debug\netcoreapp3.1\GameScore.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\GameScore\GameScore\obj\Debug\netcoreapp3.1\GameScore.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\GameScore\GameScore\obj\Debug\netcoreapp3.1\GameScore.csproj.CoreCompileInputs.cache
+C:\Users\asvarciuc\source\repos\GameScore\GameScore\bin\Debug\netcoreapp3.1\GameScore.exe
+C:\Users\asvarciuc\source\repos\GameScore\GameScore\bin\Debug\netcoreapp3.1\GameScore.deps.json
+C:\Users\asvarciuc\source\repos\GameScore\GameScore\bin\Debug\netcoreapp3.1\GameScore.runtimeconfig.json
+C:\Users\asvarciuc\source\repos\GameScore\GameScore\bin\Debug\netcoreapp3.1\GameScore.runtimeconfig.dev.json
+C:\Users\asvarciuc\source\repos\GameScore\GameScore\bin\Debug\netcoreapp3.1\GameScore.dll
+C:\Users\asvarciuc\source\repos\GameScore\GameScore\bin\Debug\netcoreapp3.1\GameScore.pdb
+C:\Users\asvarciuc\source\repos\GameScore\GameScore\obj\Debug\netcoreapp3.1\GameScore.dll
+C:\Users\asvarciuc\source\repos\GameScore\GameScore\obj\Debug\netcoreapp3.1\GameScore.pdb
+C:\Users\asvarciuc\source\repos\GameScore\GameScore\obj\Debug\netcoreapp3.1\GameScore.genruntimeconfig.cache

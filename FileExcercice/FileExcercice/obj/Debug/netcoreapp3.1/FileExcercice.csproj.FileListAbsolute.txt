@@ -1,0 +1,13 @@
+C:\Users\asvarciuc\source\repos\FileExcercice\FileExcercice\bin\Debug\netcoreapp3.1\FileExcercice.exe
+C:\Users\asvarciuc\source\repos\FileExcercice\FileExcercice\bin\Debug\netcoreapp3.1\FileExcercice.deps.json
+C:\Users\asvarciuc\source\repos\FileExcercice\FileExcercice\bin\Debug\netcoreapp3.1\FileExcercice.runtimeconfig.json
+C:\Users\asvarciuc\source\repos\FileExcercice\FileExcercice\bin\Debug\netcoreapp3.1\FileExcercice.runtimeconfig.dev.json
+C:\Users\asvarciuc\source\repos\FileExcercice\FileExcercice\bin\Debug\netcoreapp3.1\FileExcercice.dll
+C:\Users\asvarciuc\source\repos\FileExcercice\FileExcercice\bin\Debug\netcoreapp3.1\FileExcercice.pdb
+C:\Users\asvarciuc\source\repos\FileExcercice\FileExcercice\obj\Debug\netcoreapp3.1\FileExcercice.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\FileExcercice\FileExcercice\obj\Debug\netcoreapp3.1\FileExcercice.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\FileExcercice\FileExcercice\obj\Debug\netcoreapp3.1\FileExcercice.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\FileExcercice\FileExcercice\obj\Debug\netcoreapp3.1\FileExcercice.csproj.CoreCompileInputs.cache
+C:\Users\asvarciuc\source\repos\FileExcercice\FileExcercice\obj\Debug\netcoreapp3.1\FileExcercice.dll
+C:\Users\asvarciuc\source\repos\FileExcercice\FileExcercice\obj\Debug\netcoreapp3.1\FileExcercice.pdb
+C:\Users\asvarciuc\source\repos\FileExcercice\FileExcercice\obj\Debug\netcoreapp3.1\FileExcercice.genruntimeconfig.cache

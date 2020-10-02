@@ -42,6 +42,21 @@ namespace PerepisiNaselenia
                 Console.WriteLine($"{person.Name} -- {person.Adress}");
 
             }
+            Console.WriteLine("Please enter the range of age you whant to filter by");
+            int value1 = Int32.Parse(Console.ReadLine());
+            int value2 = Int32.Parse(Console.ReadLine());
+
+            var filteredResult = from s in personList
+                                 where s.Age > value1 && s.Age < value2
+                                 select s;
+            foreach (Person person in filteredResult)
+            {
+
+                Console.WriteLine($"{person.Name} -- {person.Age}");
+
+            }
+
+
 
 
         }

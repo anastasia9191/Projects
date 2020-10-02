@@ -1,0 +1,13 @@
+C:\Users\asvarciuc\source\repos\TennisGameOriginal\TennisGameOriginal\bin\Debug\netcoreapp3.1\TennisGameOriginal.exe
+C:\Users\asvarciuc\source\repos\TennisGameOriginal\TennisGameOriginal\bin\Debug\netcoreapp3.1\TennisGameOriginal.deps.json
+C:\Users\asvarciuc\source\repos\TennisGameOriginal\TennisGameOriginal\bin\Debug\netcoreapp3.1\TennisGameOriginal.runtimeconfig.json
+C:\Users\asvarciuc\source\repos\TennisGameOriginal\TennisGameOriginal\bin\Debug\netcoreapp3.1\TennisGameOriginal.runtimeconfig.dev.json
+C:\Users\asvarciuc\source\repos\TennisGameOriginal\TennisGameOriginal\bin\Debug\netcoreapp3.1\TennisGameOriginal.dll
+C:\Users\asvarciuc\source\repos\TennisGameOriginal\TennisGameOriginal\bin\Debug\netcoreapp3.1\TennisGameOriginal.pdb
+C:\Users\asvarciuc\source\repos\TennisGameOriginal\TennisGameOriginal\obj\Debug\netcoreapp3.1\TennisGameOriginal.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\TennisGameOriginal\TennisGameOriginal\obj\Debug\netcoreapp3.1\TennisGameOriginal.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\TennisGameOriginal\TennisGameOriginal\obj\Debug\netcoreapp3.1\TennisGameOriginal.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\TennisGameOriginal\TennisGameOriginal\obj\Debug\netcoreapp3.1\TennisGameOriginal.csproj.CoreCompileInputs.cache
+C:\Users\asvarciuc\source\repos\TennisGameOriginal\TennisGameOriginal\obj\Debug\netcoreapp3.1\TennisGameOriginal.dll
+C:\Users\asvarciuc\source\repos\TennisGameOriginal\TennisGameOriginal\obj\Debug\netcoreapp3.1\TennisGameOriginal.pdb
+C:\Users\asvarciuc\source\repos\TennisGameOriginal\TennisGameOriginal\obj\Debug\netcoreapp3.1\TennisGameOriginal.genruntimeconfig.cache
