@@ -1,0 +1,16 @@
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\bin\Debug\netcoreapp3.1\StickyNotes.exe
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\bin\Debug\netcoreapp3.1\StickyNotes.deps.json
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\bin\Debug\netcoreapp3.1\StickyNotes.runtimeconfig.json
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\bin\Debug\netcoreapp3.1\StickyNotes.runtimeconfig.dev.json
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\bin\Debug\netcoreapp3.1\StickyNotes.dll
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\bin\Debug\netcoreapp3.1\StickyNotes.pdb
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\obj\Debug\netcoreapp3.1\StickyNotes.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\obj\Debug\netcoreapp3.1\StickyNotes.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\obj\Debug\netcoreapp3.1\StickyNotes.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\obj\Debug\netcoreapp3.1\StickyNotes.dll
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\obj\Debug\netcoreapp3.1\StickyNotes.pdb
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\obj\Debug\netcoreapp3.1\StickyNotes.genruntimeconfig.cache
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\obj\Debug\netcoreapp3.1\StickyNotes.csproj.CoreCompileInputs.cache
+C:\Users\asvarciuc\source\repos\StickyNotes\StickyNotes\obj\Debug\netcoreapp3.1\StickyNotes.csproj.CopyComplete
