@@ -5,10 +5,16 @@ using System.Collections.Generic;
 
 namespace GameScore
 {
-    class TennisGame
+    class TennisGame : IGame
     {
         private int m_score1 = 0;
         private int m_score2 = 0;
+        
+        public TennisGame(Player player1Name, Player player2Name)
+        {
+            var name = player1Name;
+            var secondName = player2Name;
+        }
         public void WonPoint(string playerName)
         {
             if (playerName == "player1")

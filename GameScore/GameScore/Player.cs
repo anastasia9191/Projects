@@ -6,12 +6,13 @@ namespace GameScore
 {
     class Player
     {
-        private string player1Name;
-        private string player2Name;
-        public Player(string player1Name, string player2Name)
+        private string playerName;
+       
+        public Player(string playerName)
         {
-            this.player1Name = player1Name;
-            this.player2Name = player2Name;
+            this.playerName = playerName;
+           
         }
     }
+ 
 }
