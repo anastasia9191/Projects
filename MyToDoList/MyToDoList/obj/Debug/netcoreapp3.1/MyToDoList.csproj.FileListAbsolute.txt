@@ -1,0 +1,13 @@
+C:\Users\asvarciuc\source\repos\MyToDoList\MyToDoList\bin\Debug\netcoreapp3.1\MyToDoList.exe
+C:\Users\asvarciuc\source\repos\MyToDoList\MyToDoList\bin\Debug\netcoreapp3.1\MyToDoList.deps.json
+C:\Users\asvarciuc\source\repos\MyToDoList\MyToDoList\bin\Debug\netcoreapp3.1\MyToDoList.runtimeconfig.json
+C:\Users\asvarciuc\source\repos\MyToDoList\MyToDoList\bin\Debug\netcoreapp3.1\MyToDoList.runtimeconfig.dev.json
+C:\Users\asvarciuc\source\repos\MyToDoList\MyToDoList\bin\Debug\netcoreapp3.1\MyToDoList.dll
+C:\Users\asvarciuc\source\repos\MyToDoList\MyToDoList\bin\Debug\netcoreapp3.1\MyToDoList.pdb
+C:\Users\asvarciuc\source\repos\MyToDoList\MyToDoList\obj\Debug\netcoreapp3.1\MyToDoList.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\MyToDoList\MyToDoList\obj\Debug\netcoreapp3.1\MyToDoList.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\MyToDoList\MyToDoList\obj\Debug\netcoreapp3.1\MyToDoList.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\MyToDoList\MyToDoList\obj\Debug\netcoreapp3.1\MyToDoList.csproj.CoreCompileInputs.cache
+C:\Users\asvarciuc\source\repos\MyToDoList\MyToDoList\obj\Debug\netcoreapp3.1\MyToDoList.dll
+C:\Users\asvarciuc\source\repos\MyToDoList\MyToDoList\obj\Debug\netcoreapp3.1\MyToDoList.pdb
+C:\Users\asvarciuc\source\repos\MyToDoList\MyToDoList\obj\Debug\netcoreapp3.1\MyToDoList.genruntimeconfig.cache

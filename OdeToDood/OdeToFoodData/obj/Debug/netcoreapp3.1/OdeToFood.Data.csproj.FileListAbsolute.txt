@@ -1,0 +1,15 @@
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\bin\Debug\netcoreapp3.1\OdeToFood.Data.deps.json
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\obj\Debug\netcoreapp3.1\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\obj\Debug\netcoreapp3.1\OdeToFood.Data.dll
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\obj\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.json
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.dev.json
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\obj\Debug\netcoreapp3.1\OdeToFood.Data.genruntimeconfig.cache
+C:\Users\asvarciuc\source\repos\OdeToDood\OdeToFoodData\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CoreCompileInputs.cache

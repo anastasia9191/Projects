@@ -1,0 +1,13 @@
+C:\Users\asvarciuc\source\repos\HackerRanck\HackerRanck\bin\Debug\netcoreapp3.1\HackerRanck.exe
+C:\Users\asvarciuc\source\repos\HackerRanck\HackerRanck\bin\Debug\netcoreapp3.1\HackerRanck.deps.json
+C:\Users\asvarciuc\source\repos\HackerRanck\HackerRanck\bin\Debug\netcoreapp3.1\HackerRanck.runtimeconfig.json
+C:\Users\asvarciuc\source\repos\HackerRanck\HackerRanck\bin\Debug\netcoreapp3.1\HackerRanck.runtimeconfig.dev.json
+C:\Users\asvarciuc\source\repos\HackerRanck\HackerRanck\bin\Debug\netcoreapp3.1\HackerRanck.dll
+C:\Users\asvarciuc\source\repos\HackerRanck\HackerRanck\bin\Debug\netcoreapp3.1\HackerRanck.pdb
+C:\Users\asvarciuc\source\repos\HackerRanck\HackerRanck\obj\Debug\netcoreapp3.1\HackerRanck.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\HackerRanck\HackerRanck\obj\Debug\netcoreapp3.1\HackerRanck.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\HackerRanck\HackerRanck\obj\Debug\netcoreapp3.1\HackerRanck.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\HackerRanck\HackerRanck\obj\Debug\netcoreapp3.1\HackerRanck.csproj.CoreCompileInputs.cache
+C:\Users\asvarciuc\source\repos\HackerRanck\HackerRanck\obj\Debug\netcoreapp3.1\HackerRanck.dll
+C:\Users\asvarciuc\source\repos\HackerRanck\HackerRanck\obj\Debug\netcoreapp3.1\HackerRanck.pdb
+C:\Users\asvarciuc\source\repos\HackerRanck\HackerRanck\obj\Debug\netcoreapp3.1\HackerRanck.genruntimeconfig.cache

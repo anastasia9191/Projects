@@ -1,0 +1,15 @@
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\bin\Debug\netcoreapp3.1\ConsoleSaveFilesFromSite.exe
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\obj\Debug\netcoreapp3.1\ConsoleSaveFilesFromSite.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\obj\Debug\netcoreapp3.1\ConsoleSaveFilesFromSite.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\obj\Debug\netcoreapp3.1\ConsoleSaveFilesFromSite.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\bin\Debug\netcoreapp3.1\ConsoleSaveFilesFromSite.deps.json
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\bin\Debug\netcoreapp3.1\ConsoleSaveFilesFromSite.runtimeconfig.json
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\bin\Debug\netcoreapp3.1\ConsoleSaveFilesFromSite.runtimeconfig.dev.json
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\bin\Debug\netcoreapp3.1\ConsoleSaveFilesFromSite.dll
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\bin\Debug\netcoreapp3.1\ConsoleSaveFilesFromSite.pdb
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\obj\Debug\netcoreapp3.1\ConsoleSaveFilesFromSite.csproj.CoreCompileInputs.cache
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\obj\Debug\netcoreapp3.1\ConsoleSaveFilesFromSite.csproj.CopyComplete
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\obj\Debug\netcoreapp3.1\ConsoleSaveFilesFromSite.dll
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\obj\Debug\netcoreapp3.1\ConsoleSaveFilesFromSite.pdb
+C:\Users\asvarciuc\source\repos\ConsoleSaveFilesFromSite\ConsoleSaveFilesFromSite\obj\Debug\netcoreapp3.1\ConsoleSaveFilesFromSite.genruntimeconfig.cache

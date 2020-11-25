@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToBooks", "OdeToBooks\OdeToBooks.csproj", "{D8E9673A-97FC-4A7D-A8CE-391CDF34CBEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8E9673A-97FC-4A7D-A8CE-391CDF34CBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E9673A-97FC-4A7D-A8CE-391CDF34CBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E9673A-97FC-4A7D-A8CE-391CDF34CBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E9673A-97FC-4A7D-A8CE-391CDF34CBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {076F3B4D-50F9-46F0-B453-176CBE16151A}
+	EndGlobalSection
+EndGlobal

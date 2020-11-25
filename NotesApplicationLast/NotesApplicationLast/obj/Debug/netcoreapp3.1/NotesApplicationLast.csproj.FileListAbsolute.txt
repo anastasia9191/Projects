@@ -1,0 +1,13 @@
+C:\Users\asvarciuc\source\repos\NotesApplicationLast\NotesApplicationLast\obj\Debug\netcoreapp3.1\NotesApplicationLast.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\NotesApplicationLast\NotesApplicationLast\obj\Debug\netcoreapp3.1\NotesApplicationLast.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\NotesApplicationLast\NotesApplicationLast\obj\Debug\netcoreapp3.1\NotesApplicationLast.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\NotesApplicationLast\NotesApplicationLast\obj\Debug\netcoreapp3.1\NotesApplicationLast.csproj.CoreCompileInputs.cache
+C:\Users\asvarciuc\source\repos\NotesApplicationLast\NotesApplicationLast\bin\Debug\netcoreapp3.1\NotesApplicationLast.exe
+C:\Users\asvarciuc\source\repos\NotesApplicationLast\NotesApplicationLast\bin\Debug\netcoreapp3.1\NotesApplicationLast.deps.json
+C:\Users\asvarciuc\source\repos\NotesApplicationLast\NotesApplicationLast\bin\Debug\netcoreapp3.1\NotesApplicationLast.runtimeconfig.json
+C:\Users\asvarciuc\source\repos\NotesApplicationLast\NotesApplicationLast\bin\Debug\netcoreapp3.1\NotesApplicationLast.runtimeconfig.dev.json
+C:\Users\asvarciuc\source\repos\NotesApplicationLast\NotesApplicationLast\bin\Debug\netcoreapp3.1\NotesApplicationLast.dll
+C:\Users\asvarciuc\source\repos\NotesApplicationLast\NotesApplicationLast\bin\Debug\netcoreapp3.1\NotesApplicationLast.pdb
+C:\Users\asvarciuc\source\repos\NotesApplicationLast\NotesApplicationLast\obj\Debug\netcoreapp3.1\NotesApplicationLast.dll
+C:\Users\asvarciuc\source\repos\NotesApplicationLast\NotesApplicationLast\obj\Debug\netcoreapp3.1\NotesApplicationLast.pdb
+C:\Users\asvarciuc\source\repos\NotesApplicationLast\NotesApplicationLast\obj\Debug\netcoreapp3.1\NotesApplicationLast.genruntimeconfig.cache
