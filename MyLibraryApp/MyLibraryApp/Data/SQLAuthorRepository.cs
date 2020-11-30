@@ -59,7 +59,7 @@ namespace MyLibraryApp.Controllers
                         Name=item.Name
                     }
                         
-                        );
+                 );
             }
 
             return authors;

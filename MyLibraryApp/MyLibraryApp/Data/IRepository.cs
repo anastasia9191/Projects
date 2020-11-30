@@ -16,7 +16,7 @@ namespace MyLibraryApp.Controllers
         public Task<Book> Delete(int id);
 
        
-        public Task<Book> GetBookByTitle(string title);
+        public Task<IEnumerable<Book>> GetBookByTitle(string title);
         public Book UpdateExistingBook(EditModel editBook);
     }
 }

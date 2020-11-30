@@ -61,21 +61,26 @@ namespace MyLibraryApp.Controllers
             };
             return bookModel;
         }
-        [HttpGet("{title}/title")]
-        public async Task<ShowAllBooksModel> GetBookByName(string name)
+        [HttpGet("name/{name}")]
+        public async Task<IEnumerable<ShowAllBooksModel>> GetBookByName(string name)
         {
-            ShowAllBooksModel bookModel = new ShowAllBooksModel();
+            List<ShowAllBooksModel> bookNew = new List<ShowAllBooksModel>();
             var result = await db.GetBookByTitle(name);
-            bookModel = new ShowAllBooksModel
+            foreach(var book in result)
             {
-                Authors = result.Authors?.Select(c => c.Author.Name).ToList(),
-                Description = result.Description,
-                Id = result.BookId,
-                Price = result.Price,
-                PublishingDate = result.PublishingDate,
-                Title = result.Title
-            };
-            return bookModel;
+                bookNew.Add(new ShowAllBooksModel
+                {
+                    Authors = book.Authors?.Select(c => c.Author.Name).ToList(),
+                    Description = book.Description,
+                    Id = book.BookId,
+                    Price = book.Price,
+                    PublishingDate = book.PublishingDate,
+                    Title=book.Title
+                }
+                );
+            }
+            
+            return bookNew;
         }
 
         // POST api/books

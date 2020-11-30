@@ -40,9 +40,9 @@ namespace MyLibraryApp.Controllers
             return book;
         }
 
-        public async Task<Book> GetBookByTitle(string title)
+        public async Task<IEnumerable<Book>> GetBookByTitle(string title)
         {
-            Book book = await db.Books.Include(c => c.Authors).ThenInclude(c => c.Author).FirstOrDefaultAsync(x => x.Title == title);
+            var book = await db.Books.Include(c => c.Authors).ThenInclude(c => c.Author).Where(x => x.Title.Contains(title)).ToListAsync();
             return book;
         }
 
