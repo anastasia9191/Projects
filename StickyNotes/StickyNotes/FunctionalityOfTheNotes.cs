@@ -14,10 +14,10 @@ namespace StickyNotes
     {
         IFileWork _fileName;
         IApplication _application;
-        public FunctionalityOfTheNotes(IFileWork fileName, IApplication application)
+        public FunctionalityOfTheNotes(IFileWork fileName)
         {
             _fileName = fileName;
-            _application = application;
+           
         }
 
         public void NewNote()
@@ -66,15 +66,10 @@ namespace StickyNotes
 
                     string ReadInput = Console.ReadLine();
 
-                    if (ReadInput.ToLower() == "cancel")
-                    {
-                        _application.Run();
-                    }
-                    else
-                    {
+                   
                         string newText = doc.SelectSingleNode("//body").InnerText = ReadInput;
                         doc.Save(_fileName.NoteDirectory() + FileName);
-                    }
+                    
                 }
                 catch (Exception ex)
                 {

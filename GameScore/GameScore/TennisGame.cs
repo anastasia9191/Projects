@@ -10,11 +10,7 @@ namespace GameScore
         private int m_score1 = 0;
         private int m_score2 = 0;
         
-        public TennisGame(Player player1Name, Player player2Name)
-        {
-            var name = player1Name;
-            var secondName = player2Name;
-        }
+       
         public void WonPoint(string playerName)
         {
             if (playerName == "player1")
@@ -62,7 +58,7 @@ namespace GameScore
             }
             return score;
         }
-        public string ScoreEqual(int score1)
+        string ScoreEqual(int score1)
         {
             var score2 = "";
             switch (score1)
@@ -82,7 +78,7 @@ namespace GameScore
             }
             return score2;
         }
-        public string MinusResult(int score1, int score2)
+        string MinusResult(int score1, int score2)
         {
             var minusResult = score1 - score2;
             var score = "";
@@ -92,7 +88,7 @@ namespace GameScore
             else score = "Win for player2";
             return score;
         }
-        public bool IfEqual(int score1, int score2)
+        bool IfEqual(int score1, int score2)
         {
             if (score1 == score2)
             {
@@ -103,7 +99,7 @@ namespace GameScore
                 return false;
             }
         }
-        public bool CommonScore(int score1, int score2)
+        bool CommonScore(int score1, int score2)
         {
             if (score1 >= 4 || score2 >= 4)
             {

@@ -4,14 +4,14 @@ using System.Text;
 
 namespace GameScore
 {
-    class Player
+    public abstract class Player
     {
         private string playerName;
-       
+
         public Player(string playerName)
         {
             this.playerName = playerName;
-           
+
         }
     }
  

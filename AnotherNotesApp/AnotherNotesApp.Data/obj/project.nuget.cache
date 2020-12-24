@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wmIu0zjMwkglh05HofifJWF9F0Kv65sxG+awxqCbQtBDGjFs6j612yOQgc6O2PWp+/ZV7IEA4ZOX6F/E6d4P3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asvarciuc\\source\\repos\\AnotherNotesApp\\AnotherNotesApp.Data\\AnotherNotesApp.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asvarciuc\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\asvarciuc\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\asvarciuc\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

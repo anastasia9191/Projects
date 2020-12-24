@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OKlJvt+oSvi6FIeC01u/llldyFPtdGAmko9R5nnVgLVB1sfhp84q3PWSE1j48whg/jGYB9bcu/zthfuY0cqe8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asvarciuc\\source\\repos\\AnotherNotesApp\\AnotherNotesApp.Core\\AnotherNotesApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asvarciuc\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

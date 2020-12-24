@@ -1,12 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using OdeToFood.Core;
 using OdeToFood.Data;
+using System.Collections.Generic;
 
 namespace OdeToFood.Pages.Restaurants
 {
@@ -14,7 +11,7 @@ namespace OdeToFood.Pages.Restaurants
     {
         private readonly IRestaurantData restaurantData;
         private readonly IHtmlHelper htmlHelper;
-        [BindProperty]
+        [BindProperty]//priveazca mojno ispolizovati priamo v tele metoda s takim je nazvaniem
         public Restaurant Restaurant { get; set; }
         public IEnumerable<SelectListItem> Cuisines { get; set; }
 
@@ -25,7 +22,7 @@ namespace OdeToFood.Pages.Restaurants
         }
         public IActionResult OnGet(int? restaurantID)
         {
-            Cuisines = htmlHelper.GetEnumSelectList<CuisineType>();
+            Cuisines = htmlHelper.GetEnumSelectList<CuisineType>();//this shows the list of cuisines that is enume type
             if (restaurantID.HasValue)
             {
                 Restaurant = restaurantData.GetById(restaurantID.Value);

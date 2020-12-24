@@ -1,0 +1,20 @@
+﻿@page "{noteId}"
+@model NotesApp2._0.Pages.Notes.EditModel
+@{
+}
+<h1> Edit note </h1>
+<h2>You edit @Model.Note.Title</h2>
+<form method="post">
+    <input type="hidden" asp-for="Note.Id"/>
+    <div class="form-group">
+        <label asp-for="Note.Title"></label><!--teg helper asp-for указывает, для какого свойства модели создается элемент LabelTagHelper использует тег label для создания метки -->
+        <input asp-for="Note.Title" class="form-control" />
+        <span class="text-danger" asp-validation-for="Note.Title"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Note.Content"></label>
+        <input asp-for="Note.Content" class="form-control" />
+        <span class="text-danger" asp-validation-for="Note.Content"></span>
+    </div>
+    <button type="submit">Save</button>
+</form>

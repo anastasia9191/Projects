@@ -1,0 +1,12 @@
+C:\Users\asvarciuc\source\repos\AnotherNotesApp\AnotherNotesApp.Data\bin\Debug\netcoreapp3.1\AnotherNotesApp.Data.deps.json
+C:\Users\asvarciuc\source\repos\AnotherNotesApp\AnotherNotesApp.Data\bin\Debug\netcoreapp3.1\AnotherNotesApp.Data.dll
+C:\Users\asvarciuc\source\repos\AnotherNotesApp\AnotherNotesApp.Data\bin\Debug\netcoreapp3.1\AnotherNotesApp.Data.pdb
+C:\Users\asvarciuc\source\repos\AnotherNotesApp\AnotherNotesApp.Data\bin\Debug\netcoreapp3.1\AnotherNotesApp.Core.dll
+C:\Users\asvarciuc\source\repos\AnotherNotesApp\AnotherNotesApp.Data\bin\Debug\netcoreapp3.1\AnotherNotesApp.Core.pdb
+C:\Users\asvarciuc\source\repos\AnotherNotesApp\AnotherNotesApp.Data\obj\Debug\netcoreapp3.1\AnotherNotesApp.Data.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\AnotherNotesApp\AnotherNotesApp.Data\obj\Debug\netcoreapp3.1\AnotherNotesApp.Data.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\AnotherNotesApp\AnotherNotesApp.Data\obj\Debug\netcoreapp3.1\AnotherNotesApp.Data.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\AnotherNotesApp\AnotherNotesApp.Data\obj\Debug\netcoreapp3.1\AnotherNotesApp.Data.csproj.CopyComplete
+C:\Users\asvarciuc\source\repos\AnotherNotesApp\AnotherNotesApp.Data\obj\Debug\netcoreapp3.1\AnotherNotesApp.Data.dll
+C:\Users\asvarciuc\source\repos\AnotherNotesApp\AnotherNotesApp.Data\obj\Debug\netcoreapp3.1\AnotherNotesApp.Data.pdb
+C:\Users\asvarciuc\source\repos\AnotherNotesApp\AnotherNotesApp.Data\obj\Debug\netcoreapp3.1\AnotherNotesApp.Data.csproj.CoreCompileInputs.cache

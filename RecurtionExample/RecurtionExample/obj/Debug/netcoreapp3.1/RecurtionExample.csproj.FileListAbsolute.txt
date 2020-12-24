@@ -1,0 +1,13 @@
+C:\Users\asvarciuc\source\repos\RecurtionExample\RecurtionExample\bin\Debug\netcoreapp3.1\RecurtionExample.exe
+C:\Users\asvarciuc\source\repos\RecurtionExample\RecurtionExample\bin\Debug\netcoreapp3.1\RecurtionExample.deps.json
+C:\Users\asvarciuc\source\repos\RecurtionExample\RecurtionExample\bin\Debug\netcoreapp3.1\RecurtionExample.runtimeconfig.json
+C:\Users\asvarciuc\source\repos\RecurtionExample\RecurtionExample\bin\Debug\netcoreapp3.1\RecurtionExample.runtimeconfig.dev.json
+C:\Users\asvarciuc\source\repos\RecurtionExample\RecurtionExample\bin\Debug\netcoreapp3.1\RecurtionExample.dll
+C:\Users\asvarciuc\source\repos\RecurtionExample\RecurtionExample\bin\Debug\netcoreapp3.1\RecurtionExample.pdb
+C:\Users\asvarciuc\source\repos\RecurtionExample\RecurtionExample\obj\Debug\netcoreapp3.1\RecurtionExample.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\RecurtionExample\RecurtionExample\obj\Debug\netcoreapp3.1\RecurtionExample.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\RecurtionExample\RecurtionExample\obj\Debug\netcoreapp3.1\RecurtionExample.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\RecurtionExample\RecurtionExample\obj\Debug\netcoreapp3.1\RecurtionExample.csproj.CoreCompileInputs.cache
+C:\Users\asvarciuc\source\repos\RecurtionExample\RecurtionExample\obj\Debug\netcoreapp3.1\RecurtionExample.dll
+C:\Users\asvarciuc\source\repos\RecurtionExample\RecurtionExample\obj\Debug\netcoreapp3.1\RecurtionExample.pdb
+C:\Users\asvarciuc\source\repos\RecurtionExample\RecurtionExample\obj\Debug\netcoreapp3.1\RecurtionExample.genruntimeconfig.cache

@@ -7,7 +7,16 @@ namespace GameScore
     {
         static void Main(string[] args)
         {
-            TennisGame game = new TennisGame(new Player("player2"), new Player("player2"));
+            Creator[] creators = new Creator[2];
+
+            creators[0] = new ConcreteCreatorA();
+            creators[1] = new ConcreteCreatorB();
+
+            foreach (Creator creator in creators)
+            {
+                Player player = creator.FactoryMethod(); 
+            }
+            TennisGame game = new TennisGame();
             string[] points = { "player1", "player1", "player2", "player2", "player1", "player1" };
             for (var i = 0; i < 6; i++)
             {

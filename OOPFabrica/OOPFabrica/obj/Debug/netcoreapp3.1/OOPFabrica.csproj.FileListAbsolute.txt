@@ -1,0 +1,13 @@
+C:\Users\asvarciuc\source\repos\OOPFabrica\OOPFabrica\bin\Debug\netcoreapp3.1\OOPFabrica.exe
+C:\Users\asvarciuc\source\repos\OOPFabrica\OOPFabrica\bin\Debug\netcoreapp3.1\OOPFabrica.deps.json
+C:\Users\asvarciuc\source\repos\OOPFabrica\OOPFabrica\bin\Debug\netcoreapp3.1\OOPFabrica.runtimeconfig.json
+C:\Users\asvarciuc\source\repos\OOPFabrica\OOPFabrica\bin\Debug\netcoreapp3.1\OOPFabrica.runtimeconfig.dev.json
+C:\Users\asvarciuc\source\repos\OOPFabrica\OOPFabrica\bin\Debug\netcoreapp3.1\OOPFabrica.dll
+C:\Users\asvarciuc\source\repos\OOPFabrica\OOPFabrica\bin\Debug\netcoreapp3.1\OOPFabrica.pdb
+C:\Users\asvarciuc\source\repos\OOPFabrica\OOPFabrica\obj\Debug\netcoreapp3.1\OOPFabrica.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\OOPFabrica\OOPFabrica\obj\Debug\netcoreapp3.1\OOPFabrica.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\OOPFabrica\OOPFabrica\obj\Debug\netcoreapp3.1\OOPFabrica.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\OOPFabrica\OOPFabrica\obj\Debug\netcoreapp3.1\OOPFabrica.csproj.CoreCompileInputs.cache
+C:\Users\asvarciuc\source\repos\OOPFabrica\OOPFabrica\obj\Debug\netcoreapp3.1\OOPFabrica.dll
+C:\Users\asvarciuc\source\repos\OOPFabrica\OOPFabrica\obj\Debug\netcoreapp3.1\OOPFabrica.pdb
+C:\Users\asvarciuc\source\repos\OOPFabrica\OOPFabrica\obj\Debug\netcoreapp3.1\OOPFabrica.genruntimeconfig.cache

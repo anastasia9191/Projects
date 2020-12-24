@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesApp2.0", "NotesApp2.0\NotesApp2.0.csproj", "{704C6013-1CAD-434B-B08C-D17122AA2570}"
+	ProjectSection(ProjectDependencies) = postProject
+		{024B477E-FEBF-4B2E-B823-D9232CB67C57} = {024B477E-FEBF-4B2E-B823-D9232CB67C57}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesApp2.0.Core", "NotesApp2.0.Core\NotesApp2.0.Core.csproj", "{4B0A9F93-46B6-41DE-A80A-41AB09300542}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesApp2.0.Data", "NotesApp2.0.Data\NotesApp2.0.Data.csproj", "{024B477E-FEBF-4B2E-B823-D9232CB67C57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{704C6013-1CAD-434B-B08C-D17122AA2570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704C6013-1CAD-434B-B08C-D17122AA2570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704C6013-1CAD-434B-B08C-D17122AA2570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704C6013-1CAD-434B-B08C-D17122AA2570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0A9F93-46B6-41DE-A80A-41AB09300542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0A9F93-46B6-41DE-A80A-41AB09300542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0A9F93-46B6-41DE-A80A-41AB09300542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0A9F93-46B6-41DE-A80A-41AB09300542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{024B477E-FEBF-4B2E-B823-D9232CB67C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024B477E-FEBF-4B2E-B823-D9232CB67C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024B477E-FEBF-4B2E-B823-D9232CB67C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024B477E-FEBF-4B2E-B823-D9232CB67C57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {910C762C-5522-41FE-A263-91EA68CB62B5}
+	EndGlobalSection
+EndGlobal

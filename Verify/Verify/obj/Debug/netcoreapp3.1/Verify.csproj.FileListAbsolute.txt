@@ -1,0 +1,13 @@
+C:\Users\asvarciuc\source\repos\Verify\Verify\bin\Debug\netcoreapp3.1\Verify.exe
+C:\Users\asvarciuc\source\repos\Verify\Verify\bin\Debug\netcoreapp3.1\Verify.deps.json
+C:\Users\asvarciuc\source\repos\Verify\Verify\bin\Debug\netcoreapp3.1\Verify.runtimeconfig.json
+C:\Users\asvarciuc\source\repos\Verify\Verify\bin\Debug\netcoreapp3.1\Verify.runtimeconfig.dev.json
+C:\Users\asvarciuc\source\repos\Verify\Verify\bin\Debug\netcoreapp3.1\Verify.dll
+C:\Users\asvarciuc\source\repos\Verify\Verify\bin\Debug\netcoreapp3.1\Verify.pdb
+C:\Users\asvarciuc\source\repos\Verify\Verify\obj\Debug\netcoreapp3.1\Verify.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\Verify\Verify\obj\Debug\netcoreapp3.1\Verify.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\Verify\Verify\obj\Debug\netcoreapp3.1\Verify.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\Verify\Verify\obj\Debug\netcoreapp3.1\Verify.csproj.CoreCompileInputs.cache
+C:\Users\asvarciuc\source\repos\Verify\Verify\obj\Debug\netcoreapp3.1\Verify.dll
+C:\Users\asvarciuc\source\repos\Verify\Verify\obj\Debug\netcoreapp3.1\Verify.pdb
+C:\Users\asvarciuc\source\repos\Verify\Verify\obj\Debug\netcoreapp3.1\Verify.genruntimeconfig.cache

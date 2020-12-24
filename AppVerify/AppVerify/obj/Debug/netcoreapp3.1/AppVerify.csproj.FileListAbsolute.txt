@@ -1,0 +1,13 @@
+C:\Users\asvarciuc\source\repos\AppVerify\AppVerify\bin\Debug\netcoreapp3.1\AppVerify.exe
+C:\Users\asvarciuc\source\repos\AppVerify\AppVerify\bin\Debug\netcoreapp3.1\AppVerify.deps.json
+C:\Users\asvarciuc\source\repos\AppVerify\AppVerify\bin\Debug\netcoreapp3.1\AppVerify.runtimeconfig.json
+C:\Users\asvarciuc\source\repos\AppVerify\AppVerify\bin\Debug\netcoreapp3.1\AppVerify.runtimeconfig.dev.json
+C:\Users\asvarciuc\source\repos\AppVerify\AppVerify\bin\Debug\netcoreapp3.1\AppVerify.dll
+C:\Users\asvarciuc\source\repos\AppVerify\AppVerify\bin\Debug\netcoreapp3.1\AppVerify.pdb
+C:\Users\asvarciuc\source\repos\AppVerify\AppVerify\obj\Debug\netcoreapp3.1\AppVerify.csprojAssemblyReference.cache
+C:\Users\asvarciuc\source\repos\AppVerify\AppVerify\obj\Debug\netcoreapp3.1\AppVerify.AssemblyInfoInputs.cache
+C:\Users\asvarciuc\source\repos\AppVerify\AppVerify\obj\Debug\netcoreapp3.1\AppVerify.AssemblyInfo.cs
+C:\Users\asvarciuc\source\repos\AppVerify\AppVerify\obj\Debug\netcoreapp3.1\AppVerify.csproj.CoreCompileInputs.cache
+C:\Users\asvarciuc\source\repos\AppVerify\AppVerify\obj\Debug\netcoreapp3.1\AppVerify.dll
+C:\Users\asvarciuc\source\repos\AppVerify\AppVerify\obj\Debug\netcoreapp3.1\AppVerify.pdb
+C:\Users\asvarciuc\source\repos\AppVerify\AppVerify\obj\Debug\netcoreapp3.1\AppVerify.genruntimeconfig.cache

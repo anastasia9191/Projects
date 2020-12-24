@@ -4,20 +4,20 @@ using System.Text;
 
 namespace StickyNotes
 {
-    class Application : IApplication
+    class Application 
     {
-        IStart _start;
-        public Application(IStart start)
-        {
-            _start = start;
-        }
+        //IStart _start;
+        //public Application(IStart start)
+        //{
+        //    _start = start;
+        //}
 
-        public void Run()
-        {
+        //public void Run()
+        //{
 
-            _start.ReadCommand();
-            Console.ReadLine();
-        }
+        //    //_start.ReadCommand();
+        //    //Console.ReadLine();
+        //}
 
     }
 }

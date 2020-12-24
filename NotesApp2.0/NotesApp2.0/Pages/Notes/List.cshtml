@@ -1,0 +1,17 @@
+﻿@page
+@model NotesApp2._0.Pages.Notes.ListModel
+@{
+}
+<h1>View All Notes</h1>
+<table class="table" border="1">
+   @foreach(var note in Model.Notes)
+   {
+    <tr>
+        <td>@note.Title</td>
+        <td>@note.Content</td>
+        <td><a asp-page="./Delete" asp-route-noteId="@note.Id" class="btn btn-danger">Delete</a></td>
+        <td><a asp-page="./Edit" asp-route-noteId="@note.Id" class="btn btn-danger">Edit</a></td>
+    </tr>
+   }
+</table>
+<a asp-page="./AddNote" class="btn btn-danger">Add New Note</a>

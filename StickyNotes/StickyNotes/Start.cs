@@ -9,12 +9,11 @@ namespace StickyNotes
     {
         IFileWork _fileName;
         IFunctionalytyOfTheNotes _functionNote;
-        IApplication _application;
-        public Start(IFileWork fileName, IFunctionalytyOfTheNotes functionNote, IApplication application)
+      
+        public Start(IFileWork fileName, IFunctionalytyOfTheNotes functionNote)
         {
             _fileName = fileName;
             _functionNote = functionNote;
-            _application = application;
         }
 
         public void ReadCommand()
@@ -27,38 +26,38 @@ namespace StickyNotes
             {
                 case "new":
                     _functionNote.NewNote();
-                    _application.Run();
+                //    _application.Run();
                     break;
                 case "edit":
                     _functionNote.EditNote();
-                    _application.Run();
+              //      _application.Run();
                     break;
                 case "read":
                     _functionNote.ReadNote();
-                    _application.Run();
+               //     _application.Run();
                     break;
                 case "delete":
                     _functionNote.DeleteNote();
-                    _application.Run();
+               //     _application.Run();
                     break;
                 case "shownotes":
                     _functionNote.ShowNotes();
-                    _application.Run();
+               //     _application.Run();
                     break;
                 case "dir":
                     _fileName.NotesDirectory();
-                    _application.Run();
+                //    _application.Run();
                     break;
                 case "cls":
                     Console.Clear();
-                    _application.Run();
+               //     _application.Run();
                     break;
                 case "exit":
                     _functionNote.Exit();
                     break;
                 default:
                     CommandsAvailable();
-                    _application.Run();
+                //    _application.Run();
                     break;
             }
         }

@@ -11,10 +11,10 @@ namespace StickyNotes
         public static IContainer Configure()
         {
             var builder = new ContainerBuilder();
-            builder.RegisterType<Start>().As<IStart>().InstancePerLifetimeScope().PropertiesAutowired(PropertyWiringOptions.AllowCircularDependencies);
-            builder.RegisterType<FunctionalityOfTheNotes>().InstancePerLifetimeScope().As<IFunctionalytyOfTheNotes>().PropertiesAutowired(PropertyWiringOptions.AllowCircularDependencies);
-            builder.RegisterType<FileWork>().As<IFileWork>().InstancePerLifetimeScope().PropertiesAutowired(PropertyWiringOptions.AllowCircularDependencies);
-            builder.RegisterType<Application>().As<IApplication>().InstancePerLifetimeScope().PropertiesAutowired(PropertyWiringOptions.AllowCircularDependencies);
+            builder.RegisterType<Start>().As<IStart>();
+            builder.RegisterType<FunctionalityOfTheNotes>().As<IFunctionalytyOfTheNotes>();
+            builder.RegisterType<FileWork>().As<IFileWork>();
+         
             return builder.Build();
         }
     }

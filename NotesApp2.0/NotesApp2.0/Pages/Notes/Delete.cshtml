@@ -1,0 +1,22 @@
+﻿@page "{noteId}"
+@model NotesApp2._0.Pages.Notes.DeleteModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Page Title</title>
+</head>
+<body>
+    <h2>Delete!!!</h2>
+    <div class="alert alert-danger">
+        Are you shure you want to delete @Model.Note.Title
+    </div>
+    <form method="post">
+        <button type="submit" class="btn btn-danger">Yes!</button>
+        <a asp-page="List" class="btn btn-dark">Cancel</a>
+    </form>
+</body>
+</html>
